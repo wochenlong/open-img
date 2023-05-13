@@ -1,0 +1,21 @@
+{
+  "name": "koishi-plugin-open-setu",
+  "description": "是的，我把open-pics的涩图单独做成了插件，支持随机涩图和按tag查找涩图",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "4.12.8"
+  }
+}
